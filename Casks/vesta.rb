@@ -14,7 +14,7 @@ cask "vesta" do
 
   # Vesta ships its own in-app updater; brew upgrade also works (livecheck above).
   auto_updates true
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Vesta.app"
 
