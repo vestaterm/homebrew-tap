@@ -1,4 +1,4 @@
-cask "vesta" do
+cask "vesta-terminal" do
   version "0.1.41"
   sha256 "47b738c336cb7ac7306075fb73bd94552190edf5292e2459ed33aacf4b535de1"
 

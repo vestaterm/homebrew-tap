@@ -1,7 +1,7 @@
 # Vesta Homebrew tap
 
 ```sh
-brew install --cask vestaterm/tap/vesta
+brew install --cask vestaterm/tap/vesta-terminal
 ```
 
 Installs [Vesta](https://github.com/vestaterm/Vesta) — a native macOS terminal with
