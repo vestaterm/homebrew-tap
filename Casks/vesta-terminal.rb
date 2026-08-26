@@ -1,6 +1,6 @@
 cask "vesta-terminal" do
-  version "0.1.45"
-  sha256 "826945317693c5d2dccc1ca3f1a8726d9da01c3ebc2806d3e11951ddc6a487e9"
+  version "0.1.46"
+  sha256 "7d8f9ae265477f3660175f385ced64f321182eaa9671cc876c7886bcd0ae93bd"
 
   url "https://github.com/vestaterm/Vesta/releases/download/v#{version}/Vesta.dmg"
   name "Vesta"
